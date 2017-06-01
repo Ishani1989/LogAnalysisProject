@@ -6,9 +6,9 @@ The news database comprises of 3 tables namely, articles, authors and log. This 
 
 ## Installation/Setup
 
-Python version - 2.7.13
-Vagrant version - 1.9.5
-Oracle VirtualBox version - 5.1.22 r115126 (Qt5.6.2)
+Python version - 2.7.13<br>
+Vagrant version - 1.9.5<br>
+Oracle VirtualBox version - 5.1.22 r115126 (Qt5.6.2)<br>
 ubuntu-16.04-i386
 
 
